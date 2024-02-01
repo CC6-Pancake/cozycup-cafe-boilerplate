@@ -5,9 +5,7 @@ Cozy Cup Cafe is a web application designed to enhance the cafe experience, prov
 
 ## Features
 - **Menu Display:** View a visually appealing display of the cafe's menu.
-- **Order Placement:** Easily place and customize orders through an intuitive interface.
-- **Table Reservations:** Reserve a table in advance to ensure a comfortable seating arrangement.
-- **Rewards Program:** Engage in a rewards program for loyal customers, earning points with each purchase.
+
 
 ## Screen Captures
 ### 1.Menu Display
@@ -24,3 +22,16 @@ Cozy Cup Cafe is a web application designed to enhance the cafe experience, prov
 
 [![Facebook](https://github.com/gauravghongde/social-icons/blob/main/facebook.png)](https://www.facebook.com/khenrandolf.mapa.24)
 [![GitHub](https://github.com/gauravghongde/social-icons/blob/main/github.png)](https://github.com/KenRandolfMapa)
+
+
+---
+
+
+<img src="https://github.com/bjay09.png" alt="Bhea Jane Cafugauan" width="150" style="border-radius: 50%"/>
+
+**Name:** Bhea Jane Cafugauan
+
+**Email:** cafugauanbheajane@gmail.com
+
+[![Facebook](https://github.com/gauravghongde/social-icons/blob/main/facebook.png)](https://www.facebook.com/abajay.junio)
+[![GitHub](https://github.com/gauravghongde/social-icons/blob/main/github.png)](https://github.com/bjay09)
