@@ -1,1 +1,1 @@
-"# Cozy Cup Cafe" 
+# Cozy Cup Cafe
