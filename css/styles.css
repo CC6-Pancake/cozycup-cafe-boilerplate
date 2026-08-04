@@ -1,5 +1,11 @@
 /* Reset some default styles */
-body, h1, h2, h3, p, ul, li {
+body,
+h1,
+h2,
+h3,
+p,
+ul,
+li {
     margin: 0;
     padding: 0;
 }
@@ -14,12 +20,6 @@ header {
     background-color: #fff;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     padding: 20px;
-}
-
-nav {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
 }
 
 .logo img {
@@ -48,7 +48,7 @@ nav a:hover {
     padding: 150px 0;
     background-image: url('hero-bg.jpg');
     background-size: cover;
-    color: white;
+    color: #4c3c32;
 }
 
 .hero h1 {
@@ -73,6 +73,52 @@ nav a:hover {
 .cta-button:hover {
     background-color: #7e685b;
 }
+
+.menus {
+    padding: 150px 0;
+    text-align: center;
+}
+
+.menus h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.menus-item {
+    display: inline-block;
+    width: 500px;
+    margin: 20px;
+    padding: 15px;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.menus-item img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.git-button {
+    display: inline-block;
+    padding: 6px 15px;
+    background-color: #4c3c32;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.git-button:hover {
+    background-color: #555;
+}
+
+.menus-item img {
+    max-width: 100%;
+}
+
 
 .menu {
     padding: 100px 0;
