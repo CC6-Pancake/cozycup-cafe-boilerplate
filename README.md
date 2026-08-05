@@ -13,7 +13,7 @@ Below are screen shot's of our project's progress
 
 ## About the Authors
 <p align="center">
-  <img src="https://github.com/Kenzo-gg/cozycup-cafe-boilerplate/blob/main/assets/images.jpg width="150" style="border-radius: 50%; display: block; margin: 0 auto 15px auto;">
+  <img src="https://github.com/Kenzo-gg/cozycup-cafe-boilerplate/blob/main/assets/images.jpg" width="150" style="border-radius: 50%; display: block; margin: 0 auto 15px auto;">
   <b>Name: Charles Joaquin N. Alabastro</b><br>
   <b>Email: charlesalabastroo@gmail.com</b>
 </p>
