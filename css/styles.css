@@ -6,36 +6,45 @@ body, h1, h2, h3, p, ul, li {
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f8f2e0;
-    color: #4c3c32;
+    background-color: #1C1211;
+    color: #fcfbfb;
 }
 
 header {
-    background-color: #fff;
+    background-color: #030202;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    padding: 20px;
+    padding: 5px;
 }
 
 nav {
     display: flex;
-    justify-content: space-between;
+
+    position:relative;
     align-items: center;
+    
 }
 
 .logo img {
-    max-width: 100px;
+   max-width: 70px; 
+   padding-left: 25px;
 }
+
+
 
 nav ul {
     list-style: none;
     display: flex;
-    gap: 20px;
+    gap: 70px;
+    margin: 0 auto;
+    padding: 0;
 }
 
 nav a {
     text-decoration: none;
-    color: #4c3c32;
+    color: #efe7e7f6;
     font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
     transition: color 0.3s;
 }
 
@@ -44,34 +53,72 @@ nav a:hover {
 }
 
 .hero {
-    text-align: center;
-    padding: 150px 0;
-    background-image: url('hero-bg.jpg');
+    text-align: left;
+    padding: 150px 0 150px 80px;
+    background-image:url("coffee_bg.png");
     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
     color: white;
+
 }
 
 .hero h1 {
-    font-size: 36px;
+    font-size: 20px;
+    color: #D49472;
     margin-bottom: 20px;
+    line-height: 2.5;
+}
+
+.hero h2 {
+    font-size: 65px;
+    color: #e9e4e1;
+    margin-bottom: 20px;
+     line-height: 0.8;
+}
+.hero h3 {
+    font-size: 65px;
+    color: #D49472;
+    margin-bottom: 30px;
+    line-height: 0.5;
+}
+
+.hero-line {
+    width: 120px;
+    height: 2px;
+    background-color: #e9e4e1;
+    border: none;
+    margin: 30px 0;
 }
 
 .hero p {
-    font-size: 18px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
     margin-bottom: 40px;
+    line-height: 0.5;
 }
+
+.hero p {
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
 
 .cta-button {
     display: inline-block;
-    padding: 10px 20px;
-    background-color: #4c3c32;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 15px 30px;
+    background-color: #D49472;
     color: white;
     text-decoration: none;
     border-radius: 5px;
+     
+
 }
 
 .cta-button:hover {
-    background-color: #7e685b;
+    background-color: #482e1e;
 }
 
 .menu {
@@ -100,6 +147,7 @@ nav a:hover {
     max-width: 800px;
     margin: 0 auto;
 }
+
 
 .contact {
     padding: 100px 0;
