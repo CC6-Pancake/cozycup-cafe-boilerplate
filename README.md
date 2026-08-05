@@ -17,9 +17,9 @@ Below are screen shot's of our project's progress
     <tr>
         <td>
           <p>
-             <img src="assets/images.jpg" align="center" alt="Person 1">
+             <img src="assets/images.jpg" align="center" alt="Person 1"> <br>
              <b> Name: Charles Joaquin N. Alabastro <b> <br>
-             <b> Email: charlesalabastroo@gmail.com <b>
+             <b> Email: charlesalabastroo@gmail.com <b> <br>
              <a href="https://www.facebook.com/Charles.Alabastro" target="_blank">
              <img src=https://github.com/Kenzo-gg/cozycup-cafe-boilerplate/blob/branch-1/assets/facebook.png width="30" alt="Facebook" style="margin-right: 12px;"   align="center">
              </a>
