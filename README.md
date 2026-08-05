@@ -12,6 +12,36 @@ This project is a website where it contains all the details for our Cafe, "Cozy 
 Below are screen shot's of our project's progress
 
 ## About the Authors
-<img src="https://github.com/Kenzo-gg/cozycup-cafe-boilerplate/blob/main/assets/images.jpg" align="center" style="border-radius: 50%" width="150">
-**Name:** Charles Joaquin N. Alabastro <br>
-**Email:** charlesalabastroo@gmail.com
+
+<table>
+    <tr>
+        <td>
+          <p>
+             <img src="assets/images.jpg" align="center" alt="Person 1"> <br>
+             <b> Name: Charles Joaquin N. Alabastro <b> <br>
+             <b> Email: charlesalabastroo@gmail.com <b> <br>
+             <a href="https://www.facebook.com/Charles.Alabastro" target="_blank">
+             <img src=https://github.com/Kenzo-gg/cozycup-cafe-boilerplate/blob/branch-1/assets/facebook.png width="30" alt="Facebook" style="margin-right: 12px;"   align="center">
+             </a>
+             <a href="https://github.com/Kenzo-gg" target="_blank">
+             <img src=https://github.com/Kenzo-gg/cozycup-cafe-boilerplate/blob/branch-1/assets/github.png width="30" alt="GitHub" align="center">
+             </a>
+           </p>
+        </td>
+        <td>
+          <p>
+             <img src="assets/images.jpg" align="center" alt="Person 1"> <br>
+             <b> Name: Daven Rupert Y. Villar <b> <br>
+             <b> Email: charlesalabastroo@gmail.com <b> <br>
+             <a href="https://www.facebook.com/Charles.Alabastro" target="_blank">
+             <img src=https://github.com/Kenzo-gg/cozycup-cafe-boilerplate/blob/branch-1/assets/facebook.png width="30" alt="Facebook" style="margin-right: 12px;"   align="center">
+             </a>
+             <a href="https://github.com/Kenzo-gg" target="_blank">
+             <img src=https://github.com/Kenzo-gg/cozycup-cafe-boilerplate/blob/branch-1/assets/github.png width="30" alt="GitHub" align="center">
+             </a>
+           </p>
+        </td>
+    </tr>
+</table>
+
+
