@@ -12,6 +12,6 @@ This project is a website where it contains all the details for our Cafe, "Cozy 
 Below are screen shot's of our project's progress
 
 ## About the Authors
-<img src="images.jpg" align="center" style="border-radius: 50%" width="150">
+<img src="https://github.com/Kenzo-gg/cozycup-cafe-boilerplate/blob/main/assets/images.jpg" align="center" style="border-radius: 50%" width="150">
 **Name:** Charles Joaquin N. Alabastro <br>
 **Email:** charlesalabastroo@gmail.com
