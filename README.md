@@ -28,5 +28,20 @@ Below are screen shot's of our project's progress
              </a>
            </p>
         </td>
+        <td>
+          <p>
+             <img src="assets/images.jpg" align="center" alt="Person 1"> <br>
+             <b> Name: Daven Rupert Y. Villar <b> <br>
+             <b> Email: charlesalabastroo@gmail.com <b> <br>
+             <a href="https://www.facebook.com/Charles.Alabastro" target="_blank">
+             <img src=https://github.com/Kenzo-gg/cozycup-cafe-boilerplate/blob/branch-1/assets/facebook.png width="30" alt="Facebook" style="margin-right: 12px;"   align="center">
+             </a>
+             <a href="https://github.com/Kenzo-gg" target="_blank">
+             <img src=https://github.com/Kenzo-gg/cozycup-cafe-boilerplate/blob/branch-1/assets/github.png width="30" alt="GitHub" align="center">
+             </a>
+           </p>
+        </td>
     </tr>
 </table>
+
+
