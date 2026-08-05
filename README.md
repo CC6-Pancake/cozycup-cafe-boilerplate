@@ -12,53 +12,21 @@ This project is a website where it contains all the details for our Cafe, "Cozy 
 Below are screen shot's of our project's progress
 
 ## About the Authors
- <style>
-        table 
-        {
-            border-collapse: collapse;
-            margin: auto;
-        }
-
-        td 
-        {
-            border: 1px solid #ccc;
-            padding: 20px;
-            text-align: center;
-            width: 180px;
-        }
-
-        img 
-        {
-            width: 120px;
-            height: 120px;
-            border-radius: 50%;
-            object-fit: cover;
-        }
-
-        .name {
-            font-weight: bold;
-            margin-top: 10px;
-        }
-
-        .email 
-        {
-            color: gray;
-            font-size: 14px;
-        }
-    </style>
 
 <table>
     <tr>
         <td>
-            <img src="assets/images.jpg" alt="Person 1">
-            <div class="name">Charles Joaquin N. Alabastro</div>
-            <div class="email">charlesalabastroo@gmail.com</div>
-            <a href="https://www.facebook.com/Charles.Alabastro" target="_blank">
-            <img src=https://github.com/Kenzo-gg/cozycup-cafe-boilerplate/blob/branch-1/assets/facebook.png width="30" alt="Facebook" style="margin-right: 12px;">
-            </a>
-            <a href="https://github.com/Kenzo-gg" target="_blank">
-            <img src=https://github.com/Kenzo-gg/cozycup-cafe-boilerplate/blob/branch-1/assets/github.png width="30" alt="GitHub">
-            </a>
+          <p>
+             <img src="assets/images.jpg" alt="Person 1">
+             <b> Name: Charles Joaquin N. Alabastro <b> <br>
+             <b> Email: charlesalabastroo@gmail.com <b>
+             <a href="https://www.facebook.com/Charles.Alabastro" target="_blank">
+             <img src=https://github.com/Kenzo-gg/cozycup-cafe-boilerplate/blob/branch-1/assets/facebook.png width="30" alt="Facebook" style="margin-right: 12px;"   align="center">
+             </a>
+             <a href="https://github.com/Kenzo-gg" target="_blank">
+             <img src=https://github.com/Kenzo-gg/cozycup-cafe-boilerplate/blob/branch-1/assets/github.png width="30" alt="GitHub" align="center">
+             </a>
+           </p>
         </td>
     </tr>
 </table>
