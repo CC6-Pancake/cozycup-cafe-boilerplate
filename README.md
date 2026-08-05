@@ -17,7 +17,7 @@ Below are screen shot's of our project's progress
     <tr>
         <td>    
           <p>
-             <img src="assets/images.jpg" width="150" alt="Person 1"> <br>
+             <img src="assets/images.jpg" width="150" align="center" alt="Person 1"> <br>
              <b> Name: Charles Joaquin N. Alabastro <b> <br>
              <b> Email: charlesalabastroo@gmail.com <b> <br>
              <a href="https://www.facebook.com/Charles.Alabastro" target="_blank">
