@@ -30,7 +30,7 @@ Below are screen shot's of our project's progress
             </a>
         </td>
         <td align="center">
-            <img src="assets/images.jpg" width="150" height="150" alt="Daven Villar" style="object-fit: cover;">
+            <img src="assets/unnamed.png" width="150" height="150" alt="Daven Villar" style="object-fit: cover;">
             <br>
             <b>Name: Daven Rupert Y. Villar</b>
             <br>
