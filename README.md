@@ -15,11 +15,11 @@ Below are screen shot's of our project's progress
 
 <table>
     <tr>
-        <td>    
+        <td>
           <p>
-             <img src="assets/images.jpg" width="150" align="center" alt="Person 1"> <br>
+             <img src="assets/images.jpg" align="center" alt="Person 1">
              <b> Name: Charles Joaquin N. Alabastro <b> <br>
-             <b> Email: charlesalabastroo@gmail.com <b> <br>
+             <b> Email: charlesalabastroo@gmail.com <b>
              <a href="https://www.facebook.com/Charles.Alabastro" target="_blank">
              <img src=https://github.com/Kenzo-gg/cozycup-cafe-boilerplate/blob/branch-1/assets/facebook.png width="30" alt="Facebook" style="margin-right: 12px;"   align="center">
              </a>
