@@ -12,6 +12,17 @@ This project is a website where it contains all the details for our Cafe, "Cozy 
 Below are screen shot's of our project's progress
 
 ## About the Authors
-<img src="https://github.com/Kenzo-gg/cozycup-cafe-boilerplate/blob/main/assets/images.jpg" width="150" align="left" style="border-radius: 50%">
-<b>Name: Charles Joaquin N. Alabastro</b> <br>
-<b>Email: charlesalabastroo@gmail.com</b>
+<p align="center">
+  <img src="https://github.com/Kenzo-gg/cozycup-cafe-boilerplate/blob/main/assets/images.jpg width="150" style="border-radius: 50%; display: block; margin: 0 auto 15px auto;">
+  <b>Name: Charles Joaquin N. Alabastro</b><br>
+  <b>Email: charlesalabastroo@gmail.com</b>
+</p>
+
+<p align="center" style="margin-top: 10px;">
+  <a href="https://www.facebook.com/Charles.Alabastro" target="_blank">
+    <img src=https://github.com/Kenzo-gg/cozycup-cafe-boilerplate/blob/branch-1/assets/facebook.png width="28" alt="Facebook" style="margin-right: 12px;">
+  </a>
+  <a href="https://github.com/Kenzo-gg" target="_blank">
+    <img src=https://github.com/Kenzo-gg/cozycup-cafe-boilerplate/blob/branch-1/assets/github.png width="28" alt="GitHub">
+  </a>
+</p>
