@@ -80,8 +80,134 @@ nav a:hover {
 }
 
 .menu h2 {
-    font-size: 30px;
-    margin-bottom: 20px;
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+
+    font-family:Poppins;
+    background:#2c1d16;
+    color:white;
+}
+
+nav{
+
+    display:flex;
+    justify-content:center;
+    gap:45px;
+
+    padding:30px;
+}
+
+nav a{
+
+    color:white;
+    text-decoration:none;
+    font-size:13px;
+}
+
+.active{
+
+    border-bottom:2px solid #d5a17b;
+    padding-bottom:4px;
+}
+
+.menu{
+
+    width:90%;
+    margin:auto;
+    text-align:center;
+}
+
+.menu h1{
+
+    font-family:"Playfair Display";
+    font-size:48px;
+
+    color:#f1e5dd;
+    margin-top:20px;
+}
+
+.menu p{
+
+    color:#d7cbc2;
+    margin-top:12px;
+    margin-bottom:40px;
+}
+
+.cards{
+
+    display:flex;
+    justify-content:center;
+    gap:30px;
+    flex-wrap:wrap;
+}
+
+.card{
+
+    width:250px;
+
+    background:#0f0f0f;
+
+    border-radius:18px;
+
+    padding:25px;
+
+    text-align:left;
+
+    transition:.3s;
+}
+
+.card:hover{
+
+    transform:translateY(-10px);
+}
+
+.card h2{
+
+    margin-bottom:15px;
+
+    font-size:22px;
+}
+
+.card p{
+
+    font-size:13px;
+    line-height:1.6;
+}
+
+.card img{
+
+    width:100%;
+    margin-top:20px;
+}
+
+button{
+
+    margin-top:45px;
+
+    padding:18px 40px;
+
+    background:#c78863;
+
+    color:white;
+
+    border:none;
+
+    border-radius:15px;
+
+    font-size:18px;
+
+    cursor:pointer;
+}
+
+button:hover{
+
+    background:#d39a75;
+}
 }
 
 .about {
