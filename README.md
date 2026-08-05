@@ -15,4 +15,3 @@ Below are screen shot's of our project's progress
 <img src="C:\Users\charl\Downloads\images.jpg" alt="profile_pic" style="border-radius: 50%" width="150">
 *Name: Charles Joaquin N. Alabastro*
 *Email: charlesalabastroo@gmail.com*
-
