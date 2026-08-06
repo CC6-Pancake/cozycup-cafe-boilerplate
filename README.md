@@ -13,28 +13,29 @@ lorem ipsum
 
 # Screen Captures
 
-## Home
+## 🏠 Home Screen
 
 ![Home](image-path)
 
-> coqjioncwokcmowc
+> The landing page introduces Cozy Cup Cafe with a welcoming layout, featured coffee image, and quick navigation to the menu and other pages.
 
-## Menu
+## ☕️ Menu Screen
 
 ![Menu](image)
 
-> hcuyeahhaha
+> Displays the cafe's selection of coffee and beverages in a clean card layout, complete with product images, descriptions, and prices.
 
-##About Us
+## 📖 About Us Screen
+
 ![About Us](image)
 
-> hdnbci
+> Shares the story and mission of Cozy Cup Cafe with an engaging background image and a warm introduction to the cafe.
 
-## Contact
+## 📞 Contact Screen
 
 ![Contact](image)
 
-> ojsdcijoeqc
+> Provides the cafe's contact information, opening hours, and a contact form where customers can send inquiries or feedback.
 
 <br>
 
