@@ -13,17 +13,24 @@ lorem ipsum
 
 # Screen Captures
 
+## Home
+
 ![Home](image-path)
 
 > coqjioncwokcmowc
+
+## Menu
 
 ![Menu](image)
 
 > hcuyeahhaha
 
+##About Us
 ![About Us](image)
 
 > hdnbci
+
+## Contact
 
 ![Contact](image)
 
@@ -33,16 +40,20 @@ lorem ipsum
 
 # About the Authors
 
-<img width=150 style="border-radius: 50%" src="img_path.gpg">
+<img src="https://github.com/micahana4.png" width=150 height=150 style="border-radius: 50%; object-fit: cover">
 
-Name:
-
-Email:
+Name: **Milcahana Montemayor**  
+Email: **milcahanam@gmail.com**  
+<a href="https://www.facebook.com/milcahana.montemayor.7">
+<img src="img/facebook.png" width=30 alt="Facebook">
+</a>
+<a href="https://github.com/micahana4">
+<img src="https://skillicons.dev/icons?i=github&perline=12" width=30 alt="Github">
+</a>
 
 ---
 
-<img width=150 style="border-radius: 50%" src="img">
+<img src="img" width=150 style="border-radius: 50%" >
 
-Name:
-
+Name:  
 Email:
