@@ -40,15 +40,16 @@ lorem ipsum
 
 # About the Authors
 
-<img src="https://github.com/micahana4.png" width=150 height=150 style="border-radius: 50%; object-fit: cover">
+<img src="https://github.com/micahana4.png" width=150 style="border-radius:50%">
 
 Name: **Milcahana Montemayor**  
-Email: **milcahanam@gmail.com**  
+Email: **milcahanam@gmail.com**
+
 <a href="https://www.facebook.com/milcahana.montemayor.7">
-<img src="img/facebook.png" width=30 alt="Facebook">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png" width="30" alt="Facebook">
 </a>
 <a href="https://github.com/micahana4">
-<img src="https://skillicons.dev/icons?i=github&perline=12" width=30 alt="Github">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png" width="30" alt="GitHub">
 </a>
 
 ---
