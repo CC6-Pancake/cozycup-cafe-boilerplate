@@ -15,25 +15,25 @@ lorem ipsum
 
 ## 🏠 Home Screen
 
-![Home](image-path)
+![Home](img/captures/homescreen.png )
 
 > The landing page introduces Cozy Cup Cafe with a welcoming layout, featured coffee image, and quick navigation to the menu and other pages.
 
 ## ☕️ Menu Screen
 
-![Menu](image)
+![Menu](img/captures/menu.png)
 
 > Displays the cafe's selection of coffee and beverages in a clean card layout, complete with product images, descriptions, and prices.
 
 ## 📖 About Us Screen
 
-![About Us](image)
+![About Us](img/captures/aboutus.png)
 
 > Shares the story and mission of Cozy Cup Cafe with an engaging background image and a warm introduction to the cafe.
 
 ## 📞 Contact Screen
 
-![Contact](image)
+![Contact](img/captures/contactus.png)
 
 > Provides the cafe's contact information, opening hours, and a contact form where customers can send inquiries or feedback.
 
@@ -53,7 +53,7 @@ Email: **milcahanam@gmail.com**
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png" width="30" alt="GitHub">
 </a>
 
-<img src="https://avatars.githubusercontent.com/u/206864463?s=400&u=6a0bae312b64d880770795c1c56320e169b8f02a&v=4
+<img src="https://avatars.githubusercontent.com/u/206864463?v=4
 " width=150 style="border-radius:50%">
 
 Name: **Gabriel Jansmhir Ibarra**  
