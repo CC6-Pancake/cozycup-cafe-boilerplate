@@ -1,13 +1,16 @@
 # Project Description
 
-lorem ipsum
+Cozy Cups is a project forked by Milcahana Montemayor and Gabriel Jansmhir Ibarra, which contains basic fundamentals of a website. It features a home section to introduce cozy cups, a menu section to showcase multiple cozy cups options and details, an about us section further introducing cozy cup's story, and a contact us section that allows the user to submit a form.
+
+This website showcases both the authors' knowledge on HTML, CSS, and Markdown coding; Basic fundamentals that are taught in the course "App Development and Emerging Technologies". Additionally, it also showcases the authors' Web UI and UX designing skills.
 
 <br>
 
 # Features
 
-- ijajfdcfs
-- jwiefdcweck
+- Navigation Bar
+- Submission Form
+- Anchor Links
 
 <br>
 
