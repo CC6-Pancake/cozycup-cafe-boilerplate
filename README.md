@@ -56,8 +56,7 @@ Email: **milcahanam@gmail.com**
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png" width="30" alt="GitHub">
 </a>
 
-<img src="https://avatars.githubusercontent.com/u/206864463?v=4
-" width=150 style="border-radius:50%">
+<img src="https://avatars.githubusercontent.com/u/206864463?v=4" width=150 style="border-radius:50%">
 
 Name: **Gabriel Jansmhir Ibarra**  
 Email: **gi686273@gmail.com**
