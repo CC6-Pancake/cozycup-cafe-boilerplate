@@ -43,7 +43,9 @@ This website showcases both the authors' knowledge on HTML, CSS, and Markdown co
 <br>
 
 # About the Authors
-
+<table align="center">
+    <tr>
+        <td align="center" >
 <img src="https://github.com/micahana4.png" width=150 style="border-radius:50%">
 
 Name: **Milcahana Montemayor**  
@@ -55,7 +57,8 @@ Email: **milcahanam@gmail.com**
 <a href="https://github.com/micahana4">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png" width="30" alt="GitHub">
 </a>
-
+</td>
+<td align="center" >
 <img src="https://avatars.githubusercontent.com/u/206864463?v=4" width=150 style="border-radius:50%">
 
 Name: **Gabriel Jansmhir Ibarra**  
@@ -67,6 +70,9 @@ Email: **gi686273@gmail.com**
 <a href="https://github.com/cojjeeee">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png" width="30" alt="GitHub">
 </a>
+</td>
+</tr>
+</table>
 
 ---
 
