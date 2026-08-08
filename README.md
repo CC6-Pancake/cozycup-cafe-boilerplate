@@ -4,7 +4,7 @@ Welcome to the CozyCup Cafe website!
 
 ## About the Project
 
-CozyCup Cafe is a simple café website designed to provide customers with information about our coffee, desserts, and cafe.
+CozyCup Cafe is a simple cafe website designed to provide customers with information about our coffee, desserts, and cafe.
 
 ## Features
 
