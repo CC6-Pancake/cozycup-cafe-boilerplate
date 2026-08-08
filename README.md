@@ -53,9 +53,23 @@ Email: **milcahanam@gmail.com**
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png" width="30" alt="GitHub">
 </a>
 
+<img src="https://avatars.githubusercontent.com/u/206864463?s=400&u=6a0bae312b64d880770795c1c56320e169b8f02a&v=4
+" width=150 style="border-radius:50%">
+
+Name: **Gabriel Jansmhir Ibarra**  
+Email: **gi686273@gmail.com**
+
+<a href="https://www.facebook.com/gabriel.ibarra.4275/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png" width="30" alt="Facebook">
+</a>
+<a href="https://github.com/cojjeeee">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png" width="30" alt="GitHub">
+</a>
+
 ---
 
 <img src="img" width=150 style="border-radius: 50%" >
+
 
 Name:  
 Email:
