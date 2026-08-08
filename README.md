@@ -46,12 +46,9 @@ CozyCup Cafe is a simple cafe website designed to provide customers with informa
 **Name:** Ralph Jeffrey Cerdeña
 **Email:** 201780049@psu.palawan.edu.ph
 
-<a href="https://facebook.com/ralphjeffreyalismo.cerdena">
-  <img src="https://raw.githubusercontent.com/guaravghongde/social-icons/master/PNG/Color/Facebook.png" width="40">
-</a>
-<a href="https://github.com/Lucky70fu">
-  <img src="https://raw.githubusercontent.com/guaravghongde/social-icons/master/PNG/Color/Github.png" width="40">
-</a>
+[<img src="img/Facebook.png" width="40">]("https://facebook.com/ralphjeffreyalismo.cerdena")
+[<img src="img/Github_white.png" width="40">]("https://github.com/Lucky70fu")
+
 
 ### Lloyd Manuel Orea
 
@@ -59,11 +56,7 @@ CozyCup Cafe is a simple cafe website designed to provide customers with informa
 **Name:** 
 **Email:** @psu.palawan.edu.ph
 
-<a href="FB URL">
-  <img src="https://raw.githubusercontent.com/guaravghongde/social-icons/master/PNG/Color/Facebook.png" width="40">
-</a>
-<a href="GITHUB URL">
-  <img src="https://raw.githubusercontent.com/guaravghongde/social-icons/master/PNG/Color/Github.png" width="40">
-</a>
+[<img src="img/Facebook.png" width="40">](YOUR-FACEBOOK-LINK)
+[<img src="img/Github_white.png" width="40">](YOUR-GITHUB-LINK)
 
 © 2026 CozyCup Cafe. All rights reserved.
