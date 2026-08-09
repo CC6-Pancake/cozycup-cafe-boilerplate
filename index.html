@@ -4,46 +4,131 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&family=Playfair+Display:wght@600&display=swap" rel="stylesheet">
     <title>CozyCup Café</title>
 </head>
 <body>
     <header>
         <nav>
             <div class="logo">
-                <img src="img/logo.png" alt="CozyCup Café Logo">
+                <img src="img/cozy.png" alt="CozyCup Café Logo">
             </div>
             <ul>
                 <li><a href="#home">Home</a></li>
                 <li><a href="#menu">Menu</a></li>
                 <li><a href="#about">About Us</a></li>
                 <li><a href="#contact">Contact</a></li>
-            </ul>
+            </ul> 
         </nav>
     </header>
 
     <section id="home" class="hero">
+
         <h1>Welcome to CozyCup Café</h1>
-        <p>Discover Your Perfect Brew</p>
+        <h2>Good Coffee,</h2>
+        <h3>Great Moments.</h3>
+        <p> Handicraft with care. Made from the finest beans.</p>
+        <p>Brewed to perfection just for you.</p>
+        <hr class="hero-line">
         <a href="#menu" class="cta-button">Explore Menu</a>
     </section>
 
     <section id="menu" class="menu">
-        <h2>Our Menu</h2>
-        <!-- Add menu items here -->
-    </section>
+
+    <h2><span class="star">★</span> Our Menu <span class="star">★</span></h2>
+
+    <p>
+        Discover our most popular blends that are loved by coffee enthusiasts worldwide.
+    </p>
+
+    <div class="cards">
+
+        <div class="card">
+            <h3>Espresso Blend</h3>
+            <p>
+                A bold and balanced blend with rich chocolate notes,
+                roasted nuts and a smooth finish.
+            </p>
+            <img src="img/espresso.png" alt="Espresso Blend">
+        </div>
+
+        <div class="card">
+            <h3>House Blend Latte</h3>
+            <p>
+                Our signature espresso blended with velvety steamed milk
+                creating a naturally sweet flavor.
+            </p>
+            <img src="img/house_blend_latte.png" alt="House Blend Latte">
+        </div>
+
+        <div class="card">
+            <h3>Cold Brew Concentrate</h3>
+            <p>
+                Slow-steeped for over 18 hours producing
+                a smooth refreshing drink.
+            </p>
+            <img src="img/cold_brew.png" alt="Cold Brew Concentrate">
+        </div>
+
+        <div class="card">
+            <h3>Cappuccino</h3>
+            <p>
+                Classic Italian coffee with creamy milk foam
+                and a rich aroma.
+            </p>
+            <img src="img/capuccino.png" alt="Cappuccino">
+        </div>
+
+    </div>
+
+    <button class="see-more">See More →</button>
+
+</section>
 
     <section id="about" class="about">
-        <h2>About Us</h2>
-        <p>Discover the story behind CozyCup Café...</p>
+       <h2>ABOUT US</h2>
+
+    <p>
+        At Coffee Delight, we believe every great day begins with an exceptional cup of coffee.
+        Our passion is to serve handcrafted beverages made from carefully selected, ethically
+        sourced coffee beans that deliver rich flavor and unforgettable aroma in every sip.
+    </p>
+
+    <p>
+        Whether you're grabbing your morning espresso, catching up with friends,
+        or taking a well-deserved break, our café is designed to be a warm and welcoming
+        space where every visit feels special. We combine premium ingredients,
+        skilled baristas, and a cozy atmosphere to create an experience that goes beyond coffee.
+    </p>
+
+    <h4>
+        Our mission is simple:
+        to inspire meaningful connections and brighten every day
+        through quality coffee and genuine hospitality.
+    </h4>
+
     </section>
 
     <section id="contact" class="contact">
-        <h2>Contact Us</h2>
-        <p>Have questions or feedback? Reach out to us...</p>
+        <h2>GET IN TOUCH</h2>
+        <p><i>Write us an email!</i></p>
+        <div class="email-container">
+
+        <input
+        type="email"
+        id="email"
+        name="email"
+        placeholder="Enter your email"
+        >
+        <button type="submit">Get Started</button>
+        </div>
+        <hr class="section-divider">
+        <h3>Puerto Princesa City, Palawan | +63 945 660 0524 | cozycupcafe123@gmail.com </h3>
     </section>
 
     <footer>
-        <p>&copy; 2023 CozyCup Café. All rights reserved.</p>
+        <p>&copy; 2026 CozyCup Café. All rights reserved.</p>
     </footer>
 </body>
 </html>
