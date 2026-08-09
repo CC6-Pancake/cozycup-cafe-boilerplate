@@ -40,3 +40,5 @@ the page that will tell the user or customer about them
 <p align="center">
   <img src="https://github.com/sullezaaaron-sys.png" width="150" style="border-radius: 50%;">
 </p>
+**Name:** Aaron John B. Sulleza
+**Email:** sullezaaaron@gmail.com
