@@ -38,9 +38,9 @@ the page that tells customers when the cafe is open
 
 
 ## About the Authors
- <table align="center" style="width: 100%; display: table;">
+ <table align="center" style="width: 200%; display: table;">
     <tr>
-        <td align="center" width="50%" style="padding: 0 25px;">
+        <td align="center" width="100%" style="padding: 0 25px;">
             <img src="https://github.com/sullezaaaron-sys.png" width="150" style="border-radius: 50%;"><br><br>
             <b>Name: Aaron John B. Sulleza</b><br>
             <b>Email: sullezaaaron@gmail.com</b><br><br>
@@ -53,7 +53,7 @@ the page that tells customers when the cafe is open
                 </a>
             </div>
         </td>
-        <td align="center" width="50%" style="padding: 0 25px;">
+        <td align="center" width="100%" style="padding: 0 25px;">
             <img src="https://github.com/reiinnn01.png" width="150" style="border-radius: 50%;"><br><br>
             <b>Name: Sean Reinmarc C. Broñola</b><br>
             <b>Email: reinbronola@gmail.com</bs> <br><br>
