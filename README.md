@@ -7,6 +7,6 @@ Cozy Cup Cafe is a simple cafe website designed to provide customers with an eas
 ## Screen Captures
 🏠 Home Page
 
-<p align="center"> <img src="screenshots/home.png" width="800"> </p>
+<p align="center"> <img src="C:\Users\APDON\Pictures\Screenshots\home.png" width="800"> </p>
 
 <p align="center">
