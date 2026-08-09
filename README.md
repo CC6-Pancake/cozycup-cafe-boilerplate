@@ -49,7 +49,7 @@ the page that tells customers when the cafe is open
       <td align="center" width="50%" style="padding: 0 25px;">
         <img src="https://github.com/reiinnn01.png" width="150" style="border-radius: 50%;"><br><br>
         <b>Name: Sean Reinmarc C. Broñola</b><br>
-        <b>Email: 202480144@psu.palawan.edu.ph</b>
+        <b>Email: 202480144@psu.palawan.edu.ph</b><br>
         <b>Facebook:</b> <a href="https://www.facebook.com/reinmarc06/">https://www.facebook.com/reinmarc06/</a>
       </td> 
     </tr>
