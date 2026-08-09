@@ -41,13 +41,16 @@ the page that tells customers when the cafe is open
   <table align="center" style="width: 100%; display: table;">
     <tr>
       <td align="center" width="50%" style="padding: 0 25px;">
-        <img src="https://github.com/sullezaaaron-sys.png" width="150" style="border-radius: 50%; margin-top: 20px;"><br><br>
-        <b>Name: Aaron John B. Sulleza</b><br>
-        <b>Email: sullezaaaron@gmail.com</b><br>
-        <b>Facebook:</b> <a href="https://www.facebook.com/profile.php?id=61564705571706#">https://www.facebook.com/profile.php?id=61564705571706#</a>
+        <p align="center">
+        <a href="https://facebook.com/Aaron Sulleza">
+          <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" width="30">
+        </a>
+        <a href="https://github.com/sullezaaaron-sys">
+        <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="30">
+        </a>
       </td>
       <td align="center" width="50%" style="padding: 0 25px;">
-        <img src="https://github.com/reiinnn01.png" width="150" style="border-radius: 50%;" margin-top: 20px;><br><br>
+        <img src="https://github.com/reiinnn01.png" width="150" style="border-radius: 50%;" margin-top: 20px;><br>
         <b>Name: Sean Reinmarc C. Broñola</b><br>
         <b>Email: 202480144@psu.palawan.edu.ph</b><br>
         <b>Facebook:</b> <a href="https://www.facebook.com/reinmarc06/">https://www.facebook.com/reinmarc06/</a>
