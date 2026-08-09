@@ -39,7 +39,7 @@ the page that tells customers when the cafe is open
 
 ## About the Authors
   <table style="width: 100%; min-width: 800px; table-layout: fixed;">
-    <tr>
+    <tr min-width: 800px;>
         <td align="center" width="50%" style="padding: 0 25px;">
             <img src="https://github.com/sullezaaaron-sys.png" width="150" style="border-radius: 50%;"><br><br>
             <b>Name: Aaron John B. Sulleza</b><br>
