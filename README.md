@@ -30,10 +30,12 @@ the page that will tell the user or customer about them
   <img src="./screenshots/about.png.png" width="800">
 </p>
 
-### About the Authors
-
-
 ### 📞 Visit Page
 <p align="center">
   <img src="./screenshots/visit.png.png" width="800">
 </p>
+
+### About The Authors
+## About the Authors
+
+<img src="https://github.com/sullezaaaron-sys.png" width="150" style="border-radius: 50%;">
