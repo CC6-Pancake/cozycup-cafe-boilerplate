@@ -4,6 +4,13 @@
 
 Cozy Cup Cafe is a simple cafe website designed to provide customers with an easy and pleasant way to explore the cafe, view available drinks and food, and learn more about the cafe
 
+## Features
++ 🏠 Home page
++ ☕ Coffee and drink menu
++ 🍰 Food and dessert menu
++ 📋 Product information
++ 📱 Simple and user-friendly interface
+
 ## Screen Captures
 🏠 Home Page
 a page of the project that will seemingly greets the customers 
