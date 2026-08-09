@@ -41,13 +41,19 @@ the page that tells customers when the cafe is open
   <table align="center" style="width: 100%; display: table;">
     <tr>
       <td align="center" width="50%" style="padding: 0 25px;">
-        <p align="center">
-        <a href="https://facebook.com/Aaron Sulleza">
-          <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" width="30">
-        </a>
-        <a href="https://github.com/sullezaaaron-sys">
-        <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="30">
-        </a>
+        <img src="https://github.com/sullezaaaron-sys.png" width="150" style="border-radius: 50%; margin-top: 20px;"><br><br>
+        <b>Name: Aaron John B. Sulleza</b><br>
+        <b>Email: sullezaaaron@gmail.com</b><br>
+              <div align="center">
+                <a href="https://facebook.com/YOUR-PROFILE">
+                    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" width="30">
+                </a>
+
+                <a href="https://github.com/sullezaaaron-sys">
+                    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="30">
+                </a>
+            </div>
+        </td>
       </td>
       <td align="center" width="50%" style="padding: 0 25px;">
         <img src="https://github.com/reiinnn01.png" width="150" style="border-radius: 50%;" margin-top: 20px;><br>
