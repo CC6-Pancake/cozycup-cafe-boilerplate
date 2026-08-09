@@ -31,23 +31,24 @@ the page that will tell the user or customer about them
 </p>
 
 ### 📞 Visit Page
+the page that tells customers when the cafe is open
 <p align="center">
   <img src="./screenshots/visit.png.png" width="800">
 </p>
 
 
 ## About the Authors
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github.com/sullezaaaron-sys.png" width="150" style="border-radius: 50%;"><br><br>
-      <b>Name: Aaron John B. Sulleza</b><br>
-      Email: sullezaaaron@gmail.com
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github.com/reiinnn01.png" width="150" style="border-radius: 50%;"><br><br>
-      <b>Name: Sean Reinmarc C. Broñola</b><br>
-      Email: 202480144@psu.palawan.edu.ph
-    </td>
-  </tr>
-</table>  
+  <table align="center" style="width: 100%; display: table;">
+    <tr>
+      <td align="center" width="50%" style="padding: 0 25px;">
+        <img src="https://github.com/sullezaaaron-sys.png" width="150" style="border-radius: 50%;"><br><br>
+        <b>Name: Aaron John B. Sulleza</b><br>
+        Email: sullezaaaron@gmail.com
+      </td>
+      <td align="center" width="50%" style="padding: 0 25px;">
+        <img src="https://github.com/reiinnn01.png" width="150" style="border-radius: 50%;"><br><br>
+        <b>Name: Sean Reinmarc C. Broñola</b><br>
+        Email: 202480144@psu.palawan.edu.ph
+      </td>
+    </tr>
+  </table>  
