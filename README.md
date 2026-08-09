@@ -39,12 +39,12 @@ the page that will tell the user or customer about them
 ## About the Authors
   <table align="center">
     <tr>
-      <td align="center" width="50%" style="padding: 0 25px;>
+      <td align="center" width="50%" style="padding: 0 25px;">
         <img src="https://github.com/sullezaaaron-sys.png" width="150" style="border-radius: 50%;"><br><br>
         <b>Name: Aaron John B. Sulleza</b><br>
         Email: sullezaaaron@gmail.com
       </td>
-      <td align="center" width="50%" style="padding: 0 25px;>
+      <td align="center" width="50%" style="padding: 0 25px;">
         <img src="https://github.com/reiinnn01.png" width="150" style="border-radius: 50%;"><br><br>
         <b>Name: Sean Reinmarc C. Broñola</b><br>
         Email: 202480144@psu.palawan.edu.ph
