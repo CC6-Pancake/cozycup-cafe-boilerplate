@@ -31,13 +31,14 @@ the page that will tell the user or customer about them
 </p>
 
 ### 📞 Visit Page
+the page that tells customers when the cafe is open
 <p align="center">
   <img src="./screenshots/visit.png.png" width="800">
 </p>
 
 
 ## About the Authors
-  <table align="center">
+  <table align="center" width = 100%>
     <tr>
       <td align="center" width="50%" style="padding: 0 25px;">
         <img src="https://github.com/sullezaaaron-sys.png" width="150" style="border-radius: 50%;"><br><br>
