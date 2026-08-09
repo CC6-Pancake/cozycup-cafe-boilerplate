@@ -45,7 +45,7 @@ the page that tells customers when the cafe is open
             <b>Name: Aaron John B. Sulleza</b><br>
             Email: sullezaaaron@gmail.com<br><br>
             <div align="center">
-                <a href="https://www.facebook.com/profile.php?id=61564705571706#">
+                <a href="https://facebook.com/Aaron Sulleza">
                     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" width="30">
                 </a>
                 <a href="https://github.com/sullezaaaron-sys">
@@ -58,7 +58,7 @@ the page that tells customers when the cafe is open
             <b>Name: Sean Reinmarc C. Broñola</b><br>
             Email: 202480144@psu.palawan.edu.ph<br><br>
             <div align="center">
-                <a href="https://www.facebook.com/reinmarc06/">
+                <a href="https://facebook.com/Sean Reinmarc C. Broñola">
                     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" width="30">
                 </a>
                 <a href="https://github.com/reiinnn01">
