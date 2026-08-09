@@ -37,5 +37,6 @@ the page that will tell the user or customer about them
 
 ### About The Authors
 ## About the Authors
-
-<img src="https://github.com/sullezaaaron-sys.png" width="150" style="border-radius: 50%;">
+<p align="center">
+  <img src="https://github.com/sullezaaaron-sys.png" width="150" style="border-radius: 50%;">
+</p>
