@@ -51,7 +51,6 @@ the page that tells customers when the cafe is open
         <b>Name: Sean Reinmarc C. Broñola</b><br>
         <b>Email: 202480144@psu.palawan.edu.ph</b>
         <b>Facebook:</b> <a href="https://www.facebook.com/reinmarc06/">https://www.facebook.com/reinmarc06/</a>
-        
-      </td>
+      </td> 
     </tr>
   </table>  
