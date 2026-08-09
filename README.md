@@ -38,7 +38,7 @@ the page that tells customers when the cafe is open
 
 
 ## About the Authors
-  <table align="center" width = "100%">
+  <table align="center" width = "800">
     <tr>
       <td align="center" width="50%" style="padding: 0 25px;">
         <img src="https://github.com/sullezaaaron-sys.png" width="150" style="border-radius: 50%;"><br><br>
